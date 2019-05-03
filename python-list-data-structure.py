@@ -7,3 +7,6 @@ print(oddnumber)
 print(cafes)
 print(A)
 print(listInList)
+
+# list 덧셈(리스트의 덧셈의 경우 두개의 리스트가 합쳐진다]
+
